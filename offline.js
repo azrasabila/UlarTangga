@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1558792834,
+	"version": 1559003105,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -69,6 +69,7 @@
 		"images/sprite2-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite5-sheet0.png",
+		"images/panah_tinung-sheet0.png",
 		"media/dice.ogg",
 		"media/win.ogg",
 		"media/step.ogg",
